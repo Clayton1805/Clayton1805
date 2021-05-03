@@ -1,4 +1,4 @@
-# Clayton Miguel Da Silva :wave:
+# Clayton Miguel Da Silva
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonmiguel/)](https://www.linkedin.com/in/claytonmiguel/)
 
