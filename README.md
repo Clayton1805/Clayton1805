@@ -8,8 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clayton1805&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonmiguel/)](https://www.linkedin.com/in/claytonmiguel/)
-<div> 
+<div>
   <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
