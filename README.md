@@ -2,7 +2,7 @@
 
 ### Desenvolvedor web full stack
 
-<hr size="1">
+<hr style="height:1px">
 
 <div>
   <a href="https://github.com/Clayton1805">
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clayton1805&layout=compact&langs_count=7&theme=chartreuse&hide_border=true"/>
 </div>
 
-<hr size="1">
+<hr style="height:1px">
 
 <div>
   <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
