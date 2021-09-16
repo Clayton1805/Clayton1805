@@ -10,7 +10,6 @@ Sites:
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
 
 <br/>
-<br/>
 
   <a href="https://github.com/Clayton1805">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clayton1805&show_icons=true&theme=chartreuse&include_all_commits=true&count_private=true&hide_border=true"/>
