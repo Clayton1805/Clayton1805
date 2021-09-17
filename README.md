@@ -1,9 +1,12 @@
 # Clayton Miguel Da Silva
 
-### Desenvolvedor web full stack
+Ola eu sou clayton,sou um resolvedor de problemas facinado por tecnologia e etusiasta de criptomoedas. Sou formado na Trybe uma empresa que eu admiro muito e sou grato por me guiar a aprender toda base de programação e desenvolvimento web que eu sei.
+
+### Redes
 
 <div>
-  <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellavjs@gmail.com" target="_blank">claytonmiguel1805@gmail.com</p>
 </div>
 
 Sites:
