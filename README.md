@@ -6,7 +6,7 @@ Ola eu sou clayton,sou um resolvedor de problemas facinado por tecnologia e etus
 
 <div>
   <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <p><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellavjs@gmail.com" target="_blank">claytonmiguel1805@gmail.com</p>
+  <p><img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank">claytonmiguel1805@gmail.com</p>
 </div>
 
 Sites:
