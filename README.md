@@ -10,14 +10,15 @@ Atualmente venho estudando TypeScript e styled-components.
 
 ### Tecnologias
 
-![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![NodeJs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=ffffff)
+![NodeJs](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
+![Pyhon](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 
 ### Redes
 
