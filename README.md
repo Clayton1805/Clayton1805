@@ -10,29 +10,19 @@ Atualmente venho estudando TypeScript e styled-components.
 
 ### Redes
 
-<p>
-  <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
   <table>
-  <tr>
-    <td vertical-align="center">
-      <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
-    </td>
-    <td vertical-align="center">
-     <span>claytonmiguel1805@gmail.com</span>
-    </td>
-  </tr>
-</table>
-</p>
-<table>
-  <tr>
-    <td vertical-align="center">
-      <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
-    </td>
-    <td vertical-align="center">
-     <span>claytonmiguel1805@gmail.com</span>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td vertical-align="center">
+        <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
+      </td>
+      <td vertical-align="center">
+       <span>claytonmiguel1805@gmail.com</span>
+      </td>
+    </tr>
+  </table>
+  <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Sites:
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
@@ -44,18 +34,3 @@ Atualmente venho estudando TypeScript e styled-components.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clayton1805&show_icons=true&theme=chartreuse&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clayton1805&layout=compact&langs_count=7&theme=chartreuse&hide_border=true"/>
 </div>
-
-<!--
-**Clayton1805/Clayton1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
