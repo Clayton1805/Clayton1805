@@ -1,6 +1,12 @@
 # Clayton Miguel Da Silva
 
-Ola eu sou clayton,sou um resolvedor de problemas facinado por tecnologia e etusiasta de criptomoedas. Sou formado na Trybe uma empresa que eu admiro muito e sou grato por me guiar a aprender toda base de programação e desenvolvimento web que eu sei.
+Ola eu sou Clayton, tenho 20 anos, e sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas.
+
+Sou formado na Trybe como um desenvolvedor Full Stack, onde aprendi diversas tecnologias colocando a mão na massa, dentre as principais: Javascript, git, React.JS, Jest, Node.JS, Express, MongoDB, MySQL, CSS e Python.
+
+Além disso no curso também treinamos nossas soft skills, estudando sobre o assunto e trabalhando em grupo.
+
+Atualmente venho estudando TypeScript e styled-components.
 
 ### Redes
 
@@ -11,17 +17,6 @@ Ola eu sou clayton,sou um resolvedor de problemas facinado por tecnologia e etus
     <span> claytonmiguel1805@gmail.com</span>
   </span>
 </p>
-
-  <table>
-  <tr>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
-    </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <p> claytonmiguel1805@gmail.com</p>
-    </td>
-  </tr>
-</table>
 
 Sites:
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
