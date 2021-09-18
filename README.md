@@ -1,6 +1,6 @@
-# Clayton Miguel Da Silva
+# Hello World!
 
-Ola eu sou Clayton, tenho 20 anos, e sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas.
+Eu sou Clayton, tenho 20 anos, e sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas.
 
 Sou formado na Trybe como um desenvolvedor Full Stack, onde aprendi diversas tecnologias colocando a mão na massa, dentre as principais: Javascript, git, React.JS, Jest, Node.JS, Express, MongoDB, MySQL, CSS e Python.
 
