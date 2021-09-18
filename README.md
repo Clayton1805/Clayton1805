@@ -18,6 +18,16 @@ Atualmente venho estudando TypeScript e styled-components.
     <span> claytonmiguel1805@gmail.com</span>
   </p>
 </p>
+<table>
+  <tr>
+    <td vertical-align="center">
+      <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
+    </td>
+    <td vertical-align="center">
+     <span>claytonmiguel1805@gmail.com</span>
+    </td>
+  </tr>
+</table>
 
 ### Sites:
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
