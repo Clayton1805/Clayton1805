@@ -10,10 +10,10 @@ Ola eu sou clayton,sou um resolvedor de problemas facinado por tecnologia e etus
   <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=isabellavjs&theme=chartreuse&show_icons=true&hide_border=true" />
+      <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellavjs&theme=chartreuse&hide_border=true" />
+      <p>claytonmiguel1805@gmail.com</p>
     </td>
   </tr>
 </table>
