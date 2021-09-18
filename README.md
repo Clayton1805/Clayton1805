@@ -11,7 +11,7 @@ Atualmente venho estudando TypeScript e styled-components.
 ### Redes
 
 <div>
-  <table>
+  <table border="0">
     <tr>
       <td vertical-align="center" height="28px">
         <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
