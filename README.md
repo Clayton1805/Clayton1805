@@ -18,7 +18,7 @@ Atualmente venho estudando TypeScript e styled-components.
   </span>
 </p>
 
-Sites:
+### Sites:
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
 
 <br/>
