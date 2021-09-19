@@ -1,6 +1,6 @@
 # Hello World!
 
-Eu sou **Clayton**, tenho 20 anos, moro S.J.Campos-SP, Brasil.
+Eu sou **Clayton**, tenho 20 anos, moro em S.J.Campos-SP, Brasil.
 
 Sou um resolvedor de problemas, fascinado por tecnologia 🤖 e entusiasta de criptomoedas 💰.
 
