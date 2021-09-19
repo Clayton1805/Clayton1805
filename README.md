@@ -1,8 +1,10 @@
 # Hello World!
 
-Eu sou Clayton, tenho 20 anos, e sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas.
+Eu sou **Clayton**, tenho 20 anos, moro S.J.Campos-SP, Brasil.
 
-Sou formado na Trybe como um desenvolvedor Full Stack, onde aprendi diversas tecnologias colocando a mão na massa.
+Sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas 🪙.
+
+Sou formado na Trybe 🚀 como um **Desenvolvedor Full-Stack**, onde aprendi diversas tecnologias colocando a mão na massa.
 
 Além disso no curso também treinamos nossas soft skills, estudando sobre o assunto e trabalhando em grupo.
 
@@ -22,7 +24,8 @@ Atualmente venho estudando TypeScript e styled-components.
 
 ### Redes
 
-- ![email](https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200) claytonmiguel1805@gmail.com
+- gmail: claytonmiguel1805@gmail.com
+- ![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&linck=https://www.linkedin.com/in/claytonmiguel/)
 
 <div>
   <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
