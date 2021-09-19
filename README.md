@@ -17,6 +17,7 @@ Atualmente venho estudando TypeScript e styled-components.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/-Jest-c22929?logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff)
 ![Pyhon](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=ffffff)
