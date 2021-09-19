@@ -27,7 +27,7 @@ Atualmente venho estudando TypeScript e styled-components.
 - [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/claytonmiguel/)
 - 📧 E-Mail: claytonmiguel1805@gmail.com
 
-### Sites:
+### Sites
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
 
 <hr/>
