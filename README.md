@@ -2,7 +2,7 @@
 
 Eu sou **Clayton**, tenho 20 anos, moro S.J.Campos-SP, Brasil.
 
-Sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas 🪙.
+Sou um resolvedor de problemas, fascinado por tecnologia e entusiasta de criptomoedas <p>🪙</p>.
 
 Sou formado na Trybe 🚀 como um **Desenvolvedor Full-Stack**, onde aprendi diversas tecnologias colocando a mão na massa.
 
