@@ -24,23 +24,8 @@ Atualmente venho estudando TypeScript e styled-components.
 
 ### Redes
 
-- gmail: claytonmiguel1805@gmail.com
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claytonmiguel/)
-
-<div>
-  <a href="https://www.linkedin.com/in/claytonmiguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<table>
-    <tr>
-      <td vertical-align="center" height="28px">
-        <img src="https://img.utdstc.com/icon/d45/968/d4596826d4f754b25204f92f7e52c0ab24552edd8f9e4c50f1edce160a1104ba:200" target="_blank" height="28px">
-      </td>
-      <td vertical-align="center" height="28px">
-       <span>claytonmiguel1805@gmail.com</span>
-      </td>
-    </tr>
-  </table> claytonmiguel1805@gmail.com
+- 📧 E-Mail: claytonmiguel1805@gmail.com
+- [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/claytonmiguel/)
 
 ### Sites:
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
