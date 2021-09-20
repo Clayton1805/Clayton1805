@@ -30,8 +30,8 @@ Atualmente venho estudando TypeScript e styled-components.
 
 ### Sites
   - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
-  - [App de Receitas](https://claytonmiguel-recipes-app-0.vercel.app/) (Site onde voce pode encontrar diversas receitas).
-  - [Trivia](https://claytonmiguel-trivia-react-redux.vercel.app/) (Jogo de perguntas com um tempo determinado).
+  - [App de Receitas](https://claytonmiguel-recipes-app-0.vercel.app/) (Site onde você pode encontrar diversas receitas).
+  - [Trivia](https://claytonmiguel-trivia-react-redux.vercel.app/) (Jogo onde você responde perguntas em um tempo determinado).
 
 <hr/>
 
