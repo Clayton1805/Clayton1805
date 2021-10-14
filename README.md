@@ -14,7 +14,7 @@ Atualmente venho estudando TypeScript e styled-components.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=ffffff)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-c22929?logo=jest)
