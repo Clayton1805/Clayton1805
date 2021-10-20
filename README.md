@@ -28,10 +28,7 @@ Atualmente venho estudando TypeScript e styled-components.
 - [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/claytonmiguel/)
 - 📧 E-Mail: claytonmiguel1805@gmail.com
 
-### Sites
-  - [TryBeer](https://main-group-6-front.herokuapp.com/) (E-commerce de bebidas alcoólicas).
-  - [App de Receitas](https://claytonmiguel-recipes-app-0.vercel.app/) (Site onde você pode encontrar diversas receitas).
-  - [Trivia](https://claytonmiguel-trivia-react-redux.vercel.app/) (Jogo onde você responde perguntas em um tempo determinado).
+### - [Portfólio](https://claytonmiguel-portfolio.vercel.app/) (ppp)
 
 <hr/>
 
