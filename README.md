@@ -28,7 +28,7 @@ Atualmente venho estudando TypeScript e styled-components.
 - [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/claytonmiguel/)
 - 📧 E-Mail: claytonmiguel1805@gmail.com
 
-## - [Site Portfólio](https://claytonmiguel-portfolio.vercel.app/)
+## # [Site Portfólio](https://claytonmiguel-portfolio.vercel.app/)
 
 <hr/>
 
