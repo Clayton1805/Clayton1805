@@ -1,14 +1,12 @@
 # Hello World!
 
-Meu nome é **Clayton**, tenho 20 anos, moro em S.J.Campos-SP, Brasil.
+Meu nome é **Clayton**, tenho 22 anos, moro em S.J.Campos-SP, Brasil.
 
 Sou um resolvedor de problemas, fascinado por tecnologia 🤖 e entusiasta de criptomoedas 💰.
 
 Sou formado na Trybe 🚀 como um **Desenvolvedor Full-Stack**, onde aprendi diversas tecnologias colocando a mão na massa.
 
-Além disso no curso também treinamos nossas soft skills, estudando sobre o assunto e trabalhando em grupo.
-
-Atualmente venho estudando TypeScript e styled-components.
+Trabalhei como desenvolvedor na Méliuz durante mais de um ano onde desenvolvi muito minhas skills.
 
 ### Tecnologias
 
